@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./banner/github-banner.png"
+    src="./banner/shawon-github-cover.png"
     alt="Sarder Shamsul Arefin Shawon"
     width="100%"
   />
