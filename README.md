@@ -64,7 +64,7 @@ I'm currently focused on frontend and full-stack web development, while continuo
   <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify" />
 </p>
 
----
+------------------------------
 
 ## 🌐 Connect With Me
 
@@ -96,16 +96,32 @@ I'm currently focused on frontend and full-stack web development, while continuo
 
 </p>
 
----
+---------------------------------------------------------------------------------------------
 
-
+<!-- ======================= GITHUB STATS ======================= -->
 
 
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=SSAShawon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SSAShawon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SSAShawon&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=SSAShawon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+    alt="Shawon's Top Languages"
+  />
+</p>
+
+
+
+
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=SSAShawon&label=Profile%20Views&color=6&style=flat)
