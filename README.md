@@ -36,6 +36,29 @@ I'm currently focused on frontend and full-stack web development, while continuo
 - 🎯 Building projects to strengthen my real-world development experience
 
 ---
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
 
 
 ## 🌐 Socials:
