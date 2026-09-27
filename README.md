@@ -5,12 +5,15 @@
     width="100%"
   />
 </p>
-<!-- ======================= TYPING ======================= -->
+
+<!-- ======================= INTRO ======================= -->
+
+<h1 align="center">Hi 👋, I'm Sarder Shamsul Arefin Shawon</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=15A6E1&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sarder+Shamsul+Arefin+Shawon;Web+Developer+%7C+CSE+Student;Building+Modern+Web+Experiences;Exploring+Next.js+%26+TypeScript"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=15A6E1&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+CSE+Student;Next.js+%26+TypeScript+Developer;Building+Modern+Web+Experiences;Exploring+Full-Stack+Development"
       alt="Typing SVG"
     />
   </a>
