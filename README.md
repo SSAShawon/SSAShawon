@@ -5,14 +5,34 @@
     width="100%"
   />
 </p>
-<div align="center">
-  <h1>Hi 👋, I'm Sarder Shamsul Arefin Shawon</h1>
-<h3>A passionate frontend developer turning ideas into interactive experiences ✨</h3>
-</div>
+<!-- ======================= TYPING ======================= -->
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=15A6E1&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sarder+Shamsul+Arefin+Shawon;Web+Developer+%7C+CSE+Student;Building+Modern+Web+Experiences;Exploring+Next.js+%26+TypeScript"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-# 💫 About Me:
-<br>I'm a CSE student and passionate frontend developer who enjoys turning ideas into clean, modern, and interactive web experiences.<br><br>- 🎓 Studying Computer Science & Engineering<br>- 💻 Focused on Frontend Web Development<br>- ⚛️ Working with React, Next.js & TypeScript<br>- 🎨 Love creating responsive and interactive UI<br>- 🚀 Constantly learning and building new projects<br>- 🧪 Building and experimenting through **SSAS's Lab**<br>- 🇧🇩 Based in Bangladesh
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science and Engineering student and an aspiring Web Developer who enjoys turning ideas into modern, user-friendly web applications.
+
+I'm currently focused on frontend and full-stack web development, while continuously improving my problem-solving and software development skills.
+
+### 🚀 What I'm Currently Doing
+
+- 🔭 Building modern web applications with **Next.js and TypeScript**
+- 🌱 Exploring **React, Next.js, TypeScript, and full-stack development**
+- 💻 Working on responsive and interactive web projects
+- 📚 Continuously improving my programming and problem-solving skills
+- 🎯 Building projects to strengthen my real-world development experience
+
+---
 
 
 ## 🌐 Socials:
