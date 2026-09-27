@@ -5,9 +5,11 @@
     width="100%"
   />
 </p>
+<div align="center">
+  <h1>Hi 👋, I'm Sarder Shamsul Arefin Shawon</h1>
+<h3>A passionate frontend developer turning ideas into interactive experiences ✨</h3>
+</div>
 
-<h1 align="center">Hi 👋, I'm Sarder Shamsul Arefin Shawon</h1>
-<h3 align="center">A passionate frontend developer turning ideas into interactive experiences ✨</h3>
 
 # 💫 About Me:
 <br>I'm a CSE student and passionate frontend developer who enjoys turning ideas into clean, modern, and interactive web experiences.<br><br>- 🎓 Studying Computer Science & Engineering<br>- 💻 Focused on Frontend Web Development<br>- ⚛️ Working with React, Next.js & TypeScript<br>- 🎨 Love creating responsive and interactive UI<br>- 🚀 Constantly learning and building new projects<br>- 🧪 Building and experimenting through **SSAS's Lab**<br>- 🇧🇩 Based in Bangladesh
