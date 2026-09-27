@@ -119,11 +119,18 @@ I'm currently focused on frontend and full-stack web development, while continuo
 </p>
 
 
+<!-- ======================= PROFILE VIEWS ======================= -->
 
-
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SSAShawon&label=Profile%20Views&color=15A6E1&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=SSAShawon&label=Profile%20Views&color=6&style=flat)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
