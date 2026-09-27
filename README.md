@@ -26,6 +26,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SSAShawon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SSAShawon&icon=7&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=SSAShawon&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
