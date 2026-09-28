@@ -29,11 +29,11 @@ I'm currently focused on frontend and full-stack web development, while continuo
 
 ### 🚀 What I'm Currently Doing
 
-- 🔭 Building modern web applications with **Next.js and TypeScript**
-- 🌱 Exploring **React, Next.js, TypeScript, and full-stack development**
-- 💻 Working on responsive and interactive web projects
-- 📚 Continuously improving my programming and problem-solving skills
-- 🎯 Building projects to strengthen my real-world development experience
+- 🔭 Building modern web applications with **Next.js and TypeScript** .
+- 🌱 Exploring **React, Next.js, TypeScript, and full-stack development** .
+- 💻 Working on responsive and interactive web projects .
+- 📚 Continuously improving my programming and problem-solving skills .
+- 🎯 Building projects to strengthen my real-world development experience .
 
 ---
 <!-- ======================= TECH STACK ======================= -->
