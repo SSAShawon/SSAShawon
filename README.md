@@ -114,7 +114,7 @@ I'm currently focused on frontend and full-stack web development, while continuo
 <p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=SSAShawon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
-    alt="Shawon's Top Languages"
+    alt="Shawons Top Languages"
   />
 </p>
 
